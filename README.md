@@ -32,6 +32,6 @@ Hey! My name's Akshith, 14 year old amateur full stack web developer trying to b
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bobby3105&left_color=blue&right_color=black)
 
 
-I'd love for you to reach out even if you just want to say a quick hi! Don't hesitate to reach out to me through any means [here!](https://linktr.ee/Bobby3105)
+I'd love for you to reach out even if you just want to say a quick hi! Don't hesitate to reach out to me through any means <a href="https://linktr.ee/Bobby3105" target="_blank">here!</a>
 
 
