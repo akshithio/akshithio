@@ -29,7 +29,7 @@ Hey! My name's Akshith, 14 year old amateur full stack web developer trying to b
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bobby3105&left_color=blue&right_color=black)
+![](https://komarev.com/ghpvc/?username=Bobby3105)
 
 
 I'd love for you to reach out even if you just want to say a quick hi! Don't hesitate to reach out to me through any means <a href="https://linktr.ee/Bobby3105" target="_blank">here!</a>
