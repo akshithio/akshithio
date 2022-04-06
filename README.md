@@ -9,7 +9,7 @@
 
 Hey! My name's Akshith, 14 year old amateur full stack web developer trying to build things. High School Sophomore. Debate from time to time.
 
-- Currently Building <a href="https://www.basically.email/">Basically.email</a>
+- Currently Building <a href="https://www.basically.email/">Basically.email</a> and <a href="https://www.ethbio.xyz/">Ethbio</a>
 - Trying to build cool stuff in public
 - Messing with Svelte and TypeScript
 
