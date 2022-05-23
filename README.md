@@ -7,11 +7,11 @@
 
 <img src="unknown-modified.png" align="right">
 
-Hey! My name's Akshith, 14 year old amateur full stack web developer trying to build things. High School Sophomore. Debate from time to time.
+Hey! My name's Akshith, 14 year old full stack web developer building things. High School Sophomore. Debate and Chess from time to time.
 
-- Currently Building <a href="https://www.basically.email/">Basically.email</a> and <a href="https://www.ethbio.xyz/">Ethbio</a>
+- Currently Building <a href="https://www.basically.email/">Basically.email</a>, <a href="https://www.ethbio.xyz/">Ethbio</a>, <a href="https://www.opensourcecollage.com/">Open Source Collage</a> and Working @ <a href="https://www.dimension.dev">Dimension</a>
 - Trying to build cool stuff in public
-- Messing with Svelte and TypeScript
+- Learning Rust and Re-learing Python
 
 
 ## Tech Stack
@@ -29,6 +29,8 @@ Hey! My name's Akshith, 14 year old amateur full stack web developer trying to b
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+
 
 ![](https://komarev.com/ghpvc/?username=Bobby3105)
 
