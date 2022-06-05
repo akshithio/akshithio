@@ -7,7 +7,7 @@
 
 <img src="unknown-modified.png" align="right">
 
-Hey! My name's Akshith, 14 year old full stack web developer building things. High School Sophomore. Debate and Chess from time to time.
+Hey! My name's Akshith, 15 year old full stack web developer building things. High School Sophomore. Debate and Chess from time to time.
 
 - Currently Building <a href="https://www.basically.email/">Basically.email</a>, <a href="https://www.ethbio.xyz/">Ethbio</a>, <a href="https://www.opensourcecollage.com/">Open Source Collage</a> and Working @ <a href="https://www.dimension.dev">Dimension</a>
 - Trying to build cool stuff in public
