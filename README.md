@@ -2,8 +2,8 @@
 
 <img src="banner.png" >
 
-[![Twitter](https://img.shields.io/badge/-@Akshith3105-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Akshith3105)
-[![Gmail Badge](https://img.shields.io/badge/-akshithgarapati3105@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:akshithgarapati3105@gmail.com)
+[![Twitter](https://img.shields.io/badge/-@akshithio-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/akshithio)
+[![Gmail Badge](https://img.shields.io/badge/-hey@akshith.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@akshithio)](mailto:hey@akshith.io)
 
 <img src="unknown-modified.png" align="right">
 
