@@ -1,18 +1,4 @@
-# Sup!👋
-
-<img src="banner.png" >
-
-[![Twitter](https://img.shields.io/badge/-@akshithio-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/akshithio)
-[![Gmail Badge](https://img.shields.io/badge/-hey@akshith.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@akshithio)](mailto:hey@akshith.io)
-
-<img src="unknown-modified.png" align="right">
-
-Hey! My name's Akshith, 15 year old full stack web developer building things. High School Sophomore. Debate and Chess from time to time.
-
-- Currently Building <a href="https://www.basically.email/">Basically.email</a>, <a href="https://www.ethbio.xyz/">Ethbio</a>, <a href="https://www.opensourcecollage.com/">Open Source Collage</a> and Working @ <a href="https://www.dimension.dev">Dimension</a>
-- Trying to build cool stuff in public
-- Learning Rust and Re-learing Python
-
+🚧 wipppp 🚧 
 
 ## Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
