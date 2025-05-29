@@ -4,4 +4,4 @@ Hi, I'm Akshith! I'm a computer science student that primarily spends my time ti
 
 <br />
 
-&nbsp;<img src="./akshithio/light-logo.png#gh-dark-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" /><img src="./akshithio/dark-logo.png#gh-light-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" /> heyyyy guyssss, welcome to my githubbbb! - akshithio - may 2025
+<img src="./akshithio/light-logo.png#gh-dark-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" /><img src="./akshithio/dark-logo.png#gh-light-mode-only" alt="Logo of Boilerexams" width ="24px" align = "left" />heyyyy guyssss, welcome to my githubbbb! - akshithio - may 2025
