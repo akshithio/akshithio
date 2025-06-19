@@ -1,6 +1,6 @@
 Hi, I'm Akshith! I'm a computer science student that primarily spends my time tinkering with web systems and machine intelligence models. I'm currently interested in & thinking about interpretability research, performant systems & hip-hop.
 
-[Personal Website](akshith.io) | [Contact](mailto:mail@akshith.io)
+[Personal Website](https://akshith.io) | [Contact](mailto:mail@akshith.io)
 
 <br />
 
